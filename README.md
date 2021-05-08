@@ -1,1 +1,3 @@
 # Chipher
+Bu projede normal alfabe (plaintext alphabet) olarak ingilizce sadece büyük harflerden ve sayılardan oluşan alfabeyi kullanılacaktır.
+Şifreleme alfabesini (ciphertext alphabet) ise verilen bir tane kelime kullanılarak bulunacaktır. Bu alfabede verilen kelime (word) sadece ingilizce alfabede bulunan karakterlerden oluşacak. Eğer verilen kelime uygunsa ilk önce kelimedeki tüm karakterler büyük harfe çevrilecektir. Sonra kelimede tüm tekrarlı karakterler çıkarılacaktır.Sonra bu kelimede bulunmayan alfabedeki tüm karakterler bu kelimeye sırasıyla eklenecek. Ortaya çıkan yeni alfabe şifrelemede kullanılacak olan ciphertext alphabet olacaktır.
