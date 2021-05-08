@@ -1,10 +1,3 @@
-package Cipher;
-/**
-* BIL122 - Project 02
-* 
-* @author Rahime, <rahimeoksuzz@gmail.com>
-*/
-
 public class Cipher {
     String keyword; //The secret key used to create a ciphertext alphabet that consists of only the letters of the alphabet
     String ciphertextAlphabet; //Alphabet generated using key
